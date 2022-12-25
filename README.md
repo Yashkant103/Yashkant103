@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Making my problem solving skills better**
 
-- 🌱 I’m currently learning **Android development, Java, JavaScript, HTML5, CSS3, Bootstrap, ReactJS, AngularJS, NodeJS, MySQL, MongoDB**
+- 🌱 I’m currently learning **Android development, AngularJS, Pyhton, Shell_Script**
  
 - 👨‍💻 All of my projects are available at [Yashkant103](https://github.com/Yashkant103)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **C, Java, ReactJS**
 
 - 📫 How to reach me **prasadyashkant934@gmail.com**
 
