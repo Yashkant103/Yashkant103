@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashkant103" alt="Yashkant103" /></a> </p>
 
-- 🔭 I’m currently working on **Making my problem solving skills better**
+- 🔭 I’m currently working on **Asp.net Webapi And MVC**
 
-- 🌱 I’m currently learning **Android development, AngularJS, Pyhton, Shell_Script**
+- 🌱 I’m currently learning **NextJS**
  
 - 👨‍💻 All of my projects are available at [Yashkant103](https://github.com/Yashkant103)
 
-- 💬 Ask me about **C, Java, ReactJS**
+- 💬 Ask me about **C, Java, DBMS and Frontend Languages**
 
 - 📫 How to reach me **prasadyashkant934@gmail.com**
 
