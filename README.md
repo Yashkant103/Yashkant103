@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Asp.net Webapi And MVC**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Python and Algorithms**
  
 - 👨‍💻 All of my projects are available at [Yashkant103](https://github.com/Yashkant103)
 
