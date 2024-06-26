@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yashkant Prasad</h1>
+<h1 align="center">Hi 👋, I'm Yashkant Prasad, a CSE student</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashkant103" alt="Yashkant103" /></a> </p>
 
-- 🔭 I’m currently working on **Asp.net Webapi And MVC**
+- 🔭 I’m currently **looking to collaborate on cool project.**
+
+- 🔭 Mastering **DSA**
 
 - 🌱 I’m currently learning **Python and Algorithms**
  
