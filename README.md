@@ -1,17 +1,57 @@
-<h1 align="center">Hi 👋, I'm Yashkant Prasad, a CSE student</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h1 align="center">Hi 👋, I'm Yashkant Prasad</h1>
+<h3 align="center">🚀 Passionate Learner | Aspiring AI & Software Engineer from India 🇮🇳</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashkant103" alt="Yashkant103" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yashkant103&theme=onedark&no-frame=true&margin-w=10" alt="Yashkant103" />
+  </a>
+</p>
 
-- 🔭 I’m currently **looking to collaborate on cool project.**
+---
 
-- 🔭 Mastering **DSA**
+### 👨‍💻 About Me
+- 🔭 Currently exploring **AI, ML, and Software Development**
+- 🌱 Learning **Python | Data Structures & Algorithms | System Design**
+- 💡 Open to collaborating on **innovative and impactful projects**
+- 💬 Ask me about **C, Java, DBMS, and Frontend Development**
+- 📂 All of my work is available here 👉 [**@Yashkant103**](https://github.com/Yashkant103)
+- ⚡ Fun fact: *I believe every bug is just a misunderstood feature waiting to be fixed.*
 
-- 🌱 I’m currently learning **Python and Algorithms**
- 
-- 👨‍💻 All of my projects are available at [Yashkant103](https://github.com/Yashkant103)
+---
 
-- 💬 Ask me about **C, Java, DBMS and Frontend Languages**
+### 🧠 Tech Stack
+**Languages:** C, Java, Python, SQL, JavaScript  
+**Frameworks & Tools:** React, ASP.NET Core, FastAPI, OpenCV, Detectron2, YOLO  
+**Databases:** MySQL, MS SQL Server  
+**Other Interests:** Data Science, Computer Vision, Game Development (Unity)
+
+---
+
+### 🌟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkant103&show_icons=true&theme=tokyonight" alt="Yashkant's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkant103&theme=tokyonight" alt="GitHub streak" width="48%" />
+</p>
+
+---
+
+### 🏆 Achievements
+- 🎯 **LeetCode 200 Days Badge (2024)**
+- 🥇 **AI/ML Hackathon Participant** – *Lucent Innovation & WebOccult (DataThrone)*  
+- 💼 **AI Intern @ BOSC Tech Labs** – *Worked on Cricket Shot AI Coach using YOLO, OpenCV & Ultralytics*  
+- 🧠 Teaching Assistant for **Data Mining Lab Practicals**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashkant103&label=Profile%20views&color=0e75b6&style=flat" alt="Yashkant103" />
+</p>
+
+---
+
+### ✨ Quote I Live By
+> *"The only thing we are allowed to do is to believe that we won’t regret the choice we made."*  
+> *— Attack on Titan*
 
 - 📫 How to reach me **prasadyashkant934@gmail.com**
 
