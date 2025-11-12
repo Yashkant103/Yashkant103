@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently exploring **AI, ML, and Software Development**
-- 🌱 Learning **Python | Data Structures & Algorithms | System Design**
+- 🌱 Currently deepening my understanding of **AI concepts, ML algorithms, and real-world model deployment**.
 - 💡 Open to collaborating on **innovative and impactful projects**
-- 💬 Ask me about **C, Java, DBMS, and Frontend Development**
+- 💬 Ask me about **C, Java, DBMS, Python**
 - 📂 All of my work is available here 👉 [**@Yashkant103**](https://github.com/Yashkant103)
 - ⚡ Fun fact: *I believe every bug is just a misunderstood feature waiting to be fixed.*
 
@@ -21,11 +21,9 @@
 
 ### 🧠 Tech Stack
 **Languages:** C, Java, Python, SQL, JavaScript  
-**Frameworks & Tools:** React, ASP.NET Core, FastAPI, OpenCV, Detectron2, YOLO  
+**Frameworks & Tools:** ASP.NET Core, FastAPI, OpenCV, Detectron2, YOLO  
 **Databases:** MySQL, MS SQL Server  
-**Other Interests:** Data Science, Computer Vision, Game Development (Unity)
-
----
+**Other Interests:** Data Science, Computer Vision
 
 ### 🌟 GitHub Stats
 <p align="center">
@@ -37,15 +35,10 @@
 
 ### 🏆 Achievements
 - 🎯 **LeetCode 200 Days Badge (2024)**
+- 🥇 **AI/ML Hackathon Runner UP** - Gateway group of Company (Techathon 2.0)
 - 🥇 **AI/ML Hackathon Participant** – *Lucent Innovation & WebOccult (DataThrone)*  
-- 💼 **AI Intern @ BOSC Tech Labs** – *Worked on Cricket Shot AI Coach using YOLO, OpenCV & Ultralytics*  
+- 💼 **ML Engineer @ BOSC Tech Labs** – *Worked on Cricket Shot AI Coach using YOLO, OpenCV & Ultralytics*  
 - 🧠 Teaching Assistant for **Data Mining Lab Practicals**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashkant103&label=Profile%20views&color=0e75b6&style=flat" alt="Yashkant103" />
-</p>
 
 ---
 
